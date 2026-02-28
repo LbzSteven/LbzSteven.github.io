@@ -2,14 +2,19 @@ title: "Ziwen Kan"
 description: "Ph.D. student | Multimodal Learning"
 theme: minima
 
-# 关闭 minima 默认用 header_pages 自动列页面的方式（可不写 header_pages）
+header_pages:
+  - index.md
+  - about.md
+  - publications.md
+  - projects.md
+  - education.md
+  - cv.md
+  - miscellaneous.md
+
 markdown: kramdown
 plugins:
   - jekyll-feed
 
-# 自定义导航：同一页面锚点跳转
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/ziwenkan" }
-    # - { platform: linkedin, user_url: "https://www.linkedin.com/in/xxx/" }
-    # - { platform: googlescholar, user_url: "https://scholar.google.com/citations?user=xxxx" }  # minima 默认未必支持
+    - { platform: github, user_url: "https://github.com/ziwenkan" }
