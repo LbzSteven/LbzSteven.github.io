@@ -101,8 +101,8 @@ Write 5–8 sentences about you (current position, research focus, what you are 
 
 ## Education
 
-- **University of Central Florida** — Ph.D. in Computer Science (incoming / in progress)
-- **UC Davis** — (your degree)
+/* - **University of Central Florida** — Ph.D. in Computer Science (incoming / in progress) */
+/* - **UC Davis** — (your degree) */
 
 ---
 
