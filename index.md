@@ -82,7 +82,6 @@ Write 5–8 sentences about you (current position, research focus, what you are 
 ### Conference Papers
 - Add your paper here.
 
-> 之后如果你想“自动从 BibTeX 生成列表”，我们可以在换 modern 模板时一步到位。
 
 ---
 
